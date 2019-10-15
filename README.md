@@ -3,7 +3,7 @@
 ## Overview
 The second project in the Udacity Data Analyst Nanodegree Program asks students to select one of multiple datasets to demonstrate their skills in cleaning and performing exploratory investigations of data. We are then asked to write up and share our findings.
 
-For this project, I selected a dataset that contains information on medical appointment scheduling and attendance behaviors of over 100,000 individual appointments in Brazil.
+For this project, I selected a dataset containing over 100,000 information records regarding medical appointment scheduling and attendance behaviors in Brazil. After performing cleaning tasks on the data, I then crafted a series of research questions about the data and investigated them. These findings can be found in the Jupyter notebook within this repository.
 
 ## Repository Contents
 This repository contains the following files:
